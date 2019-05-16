@@ -8,4 +8,10 @@ function func2(b){
     return b;
 }
 
-console.log(func1(2));
+console.log(func2(2));
+
+function func3(c){
+    return c;
+}
+
+console.log(func3(3));
